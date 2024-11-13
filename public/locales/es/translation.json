@@ -1,0 +1,114 @@
+{
+  "common": {
+    "getStarted": "Comenzar",
+    "learnMore": "Más información",
+    "continue": "Continuar",
+    "back": "Atrás",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "dashboard": "Panel",
+    "symptomChecker": "Verificador de Síntomas",
+    "periodTracker": "Seguimiento Menstrual",
+    "mentalHealth": "Salud Mental",
+    "facilities": "Centros de Salud",
+    "resources": "Recursos"
+  },
+  "home": {
+    "title": "Tu Compañero de Salud con IA",
+    "subtitle": "Empoderando a las mujeres con orientación sanitaria personalizada y confidencial impulsada por IA",
+    "features": {
+      "aiSupport": {
+        "title": "Soporte de Salud con IA",
+        "description": "Obtén información personalizada de salud a través de tecnología IA avanzada",
+        "items": [
+          "Análisis inteligente de síntomas por texto, imagen o voz",
+          "Asistente de salud con IA para orientación inmediata",
+          "Consejos de salud personalizados diarios",
+          "Orientación sanitaria 24/7"
+        ]
+      },
+      "periodTracking": {
+        "title": "Seguimiento Menstrual Completo",
+        "description": "Rastrea y comprende tu ciclo menstrual con información inteligente",
+        "items": [
+          "Predicciones inteligentes con calendario codificado por colores",
+          "Registro de síntomas, estado de ánimo y temperatura",
+          "Seguimiento del período fértil y predicciones de ovulación",
+          "Análisis personalizado del ciclo"
+        ]
+      },
+      "pregnancy": {
+        "title": "Apoyo Durante el Embarazo",
+        "description": "Compañero completo para el viaje del embarazo",
+        "items": [
+          "Actualizaciones y recomendaciones semanales",
+          "Seguimiento completo de síntomas y mediciones",
+          "Gestión de citas del embarazo",
+          "Información personalizada del embarazo"
+        ]
+      },
+      "mentalHealth": {
+        "title": "Apoyo a la Salud Mental",
+        "description": "Soporte holístico para el bienestar emocional",
+        "items": [
+          "Apoyo emocional impulsado por IA",
+          "Seguimiento diario del estado de ánimo",
+          "Función de diario privado",
+          "Acceso a recursos de crisis"
+        ]
+      },
+      "facilities": {
+        "title": "Centros de Salud",
+        "description": "Encuentra proveedores de salud cerca de ti",
+        "items": [
+          "Localiza hospitales y clínicas cercanas",
+          "Mapas interactivos de instalaciones",
+          "Información detallada de proveedores",
+          "Direcciones y navegación"
+        ]
+      },
+      "privacy": {
+        "title": "Privacidad y Seguridad",
+        "description": "Tus datos están seguros y protegidos",
+        "items": [
+          "Encriptación de extremo a extremo",
+          "Almacenamiento seguro de datos",
+          "Controles de privacidad",
+          "Portabilidad de datos"
+        ]
+      }
+    },
+    "whyChooseUs": {
+      "title": "¿Por qué elegir Solace?",
+      "items": [
+        {
+          "title": "Atención Personalizada",
+          "description": "Información impulsada por IA adaptada a tu viaje de salud único"
+        },
+        {
+          "title": "Enfoque Holístico",
+          "description": "Apoyo integral para el bienestar físico y mental"
+        },
+        {
+          "title": "Siempre Disponible",
+          "description": "Acceso 24/7 a orientación y apoyo de salud"
+        },
+        {
+          "title": "Apoyo Comunitario",
+          "description": "Conéctate con otras personas en viajes de salud similares"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Comienza tu Viaje de Salud Hoy",
+      "subtitle": "Únete a miles de mujeres que han tomado el control de su salud con Solace",
+      "button": "Comienza Ahora"
+    }
+  }
+}

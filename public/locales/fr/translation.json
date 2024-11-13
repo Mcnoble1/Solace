@@ -1,0 +1,114 @@
+{
+  "common": {
+    "getStarted": "Commencer",
+    "learnMore": "En savoir plus",
+    "continue": "Continuer",
+    "back": "Retour",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "dashboard": "Tableau de bord",
+    "symptomChecker": "Vérificateur de symptômes",
+    "periodTracker": "Suivi menstruel",
+    "mentalHealth": "Santé mentale",
+    "facilities": "Établissements de santé",
+    "resources": "Ressources"
+  },
+  "home": {
+    "title": "Votre compagnon de santé IA personnel",
+    "subtitle": "Autonomiser les femmes grâce à des conseils de santé personnalisés et confidentiels alimentés par l'IA",
+    "features": {
+      "aiSupport": {
+        "title": "Support de santé alimenté par l'IA",
+        "description": "Obtenez des informations de santé personnalisées grâce à la technologie IA avancée",
+        "items": [
+          "Analyse intelligente des symptômes par texte, image ou voix",
+          "Assistant de santé IA pour des conseils immédiats",
+          "Conseils de santé personnalisés quotidiens",
+          "Orientation santé 24/7"
+        ]
+      },
+      "periodTracking": {
+        "title": "Suivi menstruel complet",
+        "description": "Suivez et comprenez votre cycle menstruel avec des informations intelligentes",
+        "items": [
+          "Prédictions intelligentes avec calendrier codé par couleur",
+          "Suivi des symptômes, de l'humeur et de la température",
+          "Suivi de la fenêtre de fertilité et prédictions d'ovulation",
+          "Analyse personnalisée du cycle"
+        ]
+      },
+      "pregnancy": {
+        "title": "Soutien à la grossesse",
+        "description": "Compagnon complet pour le parcours de grossesse",
+        "items": [
+          "Mises à jour et recommandations hebdomadaires",
+          "Suivi complet des symptômes et mesures",
+          "Gestion des rendez-vous de grossesse",
+          "Informations personnalisées sur la grossesse"
+        ]
+      },
+      "mentalHealth": {
+        "title": "Soutien à la santé mentale",
+        "description": "Support holistique pour le bien-être émotionnel",
+        "items": [
+          "Soutien émotionnel alimenté par l'IA",
+          "Suivi quotidien de l'humeur",
+          "Fonction de journal intime",
+          "Accès aux ressources de crise"
+        ]
+      },
+      "facilities": {
+        "title": "Établissements de santé",
+        "description": "Trouvez des prestataires de santé près de chez vous",
+        "items": [
+          "Localisez les hôpitaux et cliniques à proximité",
+          "Cartes interactives des établissements",
+          "Informations détaillées sur les prestataires",
+          "Directions et navigation"
+        ]
+      },
+      "privacy": {
+        "title": "Confidentialité et sécurité",
+        "description": "Vos données sont sûres et sécurisées",
+        "items": [
+          "Chiffrement de bout en bout",
+          "Stockage sécurisé des données",
+          "Contrôles de confidentialité",
+          "Portabilité des données"
+        ]
+      }
+    },
+    "whyChooseUs": {
+      "title": "Pourquoi choisir Solace ?",
+      "items": [
+        {
+          "title": "Soins personnalisés",
+          "description": "Informations IA adaptées à votre parcours de santé unique"
+        },
+        {
+          "title": "Approche holistique",
+          "description": "Soutien complet pour le bien-être physique et mental"
+        },
+        {
+          "title": "Toujours disponible",
+          "description": "Accès 24/7 aux conseils et au soutien en matière de santé"
+        },
+        {
+          "title": "Soutien communautaire",
+          "description": "Connectez-vous avec d'autres personnes sur des parcours de santé similaires"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Commencez votre parcours de santé aujourd'hui",
+      "subtitle": "Rejoignez des milliers de femmes qui ont pris le contrôle de leur santé avec Solace",
+      "button": "Commencer maintenant"
+    }
+  }
+}

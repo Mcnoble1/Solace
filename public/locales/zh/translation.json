@@ -1,0 +1,114 @@
+{
+  "common": {
+    "getStarted": "开始使用",
+    "learnMore": "了解更多",
+    "continue": "继续",
+    "back": "返回",
+    "save": "保存",
+    "cancel": "取消",
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功"
+  },
+  "navigation": {
+    "home": "首页",
+    "dashboard": "仪表板",
+    "symptomChecker": "症状检查器",
+    "periodTracker": "经期跟踪",
+    "mentalHealth": "心理健康",
+    "facilities": "医疗设施",
+    "resources": "资源"
+  },
+  "home": {
+    "title": "您的个人AI健康伴侣",
+    "subtitle": "通过AI驱动的个性化、保密的医疗指导赋予女性力量",
+    "features": {
+      "aiSupport": {
+        "title": "AI驱动的健康支持",
+        "description": "通过先进的AI技术获取个性化健康见解",
+        "items": [
+          "通过文字、图像或语音进行智能症状分析",
+          "AI健康助手提供即时指导",
+          "个性化每日健康提示",
+          "24/7健康指导"
+        ]
+      },
+      "periodTracking": {
+        "title": "全面经期跟踪",
+        "description": "通过智能见解跟踪和理解您的月经周期",
+        "items": [
+          "带有颜色编码日历的智能周期预测",
+          "症状、情绪和体温记录",
+          "排卵期跟踪和预测",
+          "个性化周期分析"
+        ]
+      },
+      "pregnancy": {
+        "title": "孕期支持",
+        "description": "完整的孕期旅程伴侣",
+        "items": [
+          "每周发育更新和建议",
+          "全面的症状和测量跟踪",
+          "孕期预约管理",
+          "个性化孕期见解"
+        ]
+      },
+      "mentalHealth": {
+        "title": "心理健康支持",
+        "description": "情绪健康的整体支持",
+        "items": [
+          "AI驱动的情绪支持",
+          "每日情绪跟踪",
+          "私人日记功能",
+          "危机资源访问"
+        ]
+      },
+      "facilities": {
+        "title": "医疗设施",
+        "description": "找到您附近的医疗服务提供者",
+        "items": [
+          "定位附近的医院和诊所",
+          "互动设施地图",
+          "详细的提供者信息",
+          "方向和导航"
+        ]
+      },
+      "privacy": {
+        "title": "隐私和安全",
+        "description": "您的数据安全且受保护",
+        "items": [
+          "端到端加密",
+          "安全数据存储",
+          "隐私控制",
+          "数据可移植性"
+        ]
+      }
+    },
+    "whyChooseUs": {
+      "title": "为什么选择Solace？",
+      "items": [
+        {
+          "title": "个性化护理",
+          "description": "AI驱动的见解，为您的独特健康旅程量身定制"
+        },
+        {
+          "title": "整体方法",
+          "description": "为身心健康提供全面支持"
+        },
+        {
+          "title": "随时可用",
+          "description": "24/7访问健康指导和支持"
+        },
+        {
+          "title": "社区支持",
+          "description": "与其他相似健康旅程的人联系"
+        }
+      ]
+    },
+    "cta": {
+      "title": "今天开始您的健康旅程",
+      "subtitle": "加入数千名已经通过Solace掌控健康的女性",
+      "button": "立即开始"
+    }
+  }
+}

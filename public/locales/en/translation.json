@@ -1,0 +1,116 @@
+{
+  "common": {
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "continue": "Continue",
+    "back": "Back",
+    "save": "Save",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "symptomChecker": "Symptom Checker",
+    "periodTracker": "Period Tracker",
+    "mentalHealth": "Mental Health",
+    "facilities": "Healthcare Facilities",
+    "community": "Community",
+    "resources": "Resources",
+    "profile": "Profile"
+  },
+  "home": {
+    "title": "Your Personal AI Health Companion",
+    "subtitle": "Empowering women with personalized, confidential healthcare guidance powered by AI",
+    "features": {
+      "aiSupport": {
+        "title": "AI-Powered Health Support",
+        "description": "Get personalized health insights through advanced AI technology",
+        "items": [
+          "Intelligent symptom analysis through text, image, or voice",
+          "AI-powered health assistant for immediate guidance",
+          "Personalized daily health tips and recommendations",
+          "24/7 health guidance and support"
+        ]
+      },
+      "periodTracking": {
+        "title": "Comprehensive Period Tracking",
+        "description": "Track and understand your menstrual cycle with smart insights",
+        "items": [
+          "Smart cycle predictions with color-coded calendar",
+          "Symptom, mood, and temperature logging",
+          "Fertility window tracking and ovulation predictions",
+          "Personalized cycle analysis"
+        ]
+      },
+      "pregnancy": {
+        "title": "Pregnancy Support",
+        "description": "Complete companion for the pregnancy journey",
+        "items": [
+          "Weekly development updates and recommendations",
+          "Comprehensive symptom and measurement tracking",
+          "Pregnancy appointment management",
+          "Personalized pregnancy insights"
+        ]
+      },
+      "mentalHealth": {
+        "title": "Mental Health Support",
+        "description": "Holistic support for emotional wellbeing",
+        "items": [
+          "AI-powered emotional support",
+          "Daily mood tracking",
+          "Private journaling feature",
+          "Access to crisis resources"
+        ]
+      },
+      "facilities": {
+        "title": "Healthcare Facilities",
+        "description": "Find healthcare providers near you",
+        "items": [
+          "Locate nearby hospitals and clinics",
+          "Interactive facility maps",
+          "Detailed provider information",
+          "Directions and navigation"
+        ]
+      },
+      "privacy": {
+        "title": "Privacy & Security",
+        "description": "Your data is safe and protected",
+        "items": [
+          "End-to-end encryption",
+          "Secure data storage",
+          "Privacy controls",
+          "Data portability"
+        ]
+      }
+    },
+    "whyChooseUs": {
+      "title": "Why Choose Solace?",
+      "items": [
+        {
+          "title": "Personalized Care",
+          "description": "AI-powered insights tailored to your unique health journey"
+        },
+        {
+          "title": "Holistic Approach",
+          "description": "Comprehensive support for physical and mental wellbeing"
+        },
+        {
+          "title": "Always Available",
+          "description": "24/7 access to health guidance and support"
+        },
+        {
+          "title": "Community Support",
+          "description": "Connect with others on similar health journeys"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Start Your Health Journey Today",
+      "subtitle": "Join thousands of women who have taken control of their health with Solace",
+      "button": "Get Started Now"
+    }
+  }
+}
